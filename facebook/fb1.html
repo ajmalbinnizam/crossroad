@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>facebook</title>
+    <link rel="stylesheet" href="style1.css" type="text/css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <a  class="logotext" href="fb.html">facebook</a>
+
+            </div>
+            <div class="login">
+                <form action="">
+                    <table class="logincontrol">
+                    <tr>
+                        <td ><label class="loginlabel" >Email or Mobile</label></td>
+                        <td ><label class="loginlabel" >Password</label></td>
+                    </tr>
+                    <tr>
+                        <td><input style="width:150px; height: 20px; border:0.5px solid black" type="text"></td>
+                        <td><input  style="width:150px; height: 20px; border:0.5px solid black" type="text"></td>
+                        <td><input class="subbtn" type="submit"  value="Log In"></td>
+                    </tr>
+                        <td></td>
+                        <td><a class="forgotten" href="forgotten.html">Forgotten account?</a>
+                    </td>
+
+                     </table>
+                </form>
+
+            </div>
+        </div>
+        <div class="mainbody">
+            <div class="left">
+               <p class="para"> Facebook helps you connect and share with the <br> people in your life.</p>
+               <img class="img" src="fb.png" alt="facebook connecting people">
+
+            </div>
+            <div class="right">
+                <span style="color:#333; font-size:36px; font-family:Helvetica, Arial, sans-serif; 	font-weight:700;" >Create an account</span><br><br>
+               <span style="color:#1d2129; font-size:19px; font-family:Helvetica, Arial, sans-serif;">It's free and always will be.</span>	<br><br>
+
+
+                <form action="hello.html" id="signup-form">
+
+                        <input name="fname" class="registration_form" type="text" placeholder="First Name"style="width:180px;"></input>
+
+                        <input name="lname" class="registration_form" type="text" placeholder="Last Name"       style="width:170px;"></input>
+
+                        <input name="email" class="registration_form" type="text" placeholder="Mobile number or email    address"style="width:377px;"></input>
+
+                         <input name="password" class="registration_form" type="text" placeholder="New Password"style="width:377px;"></input><br><br>
+       
+                 <span style="color:#1d2129; font-size:19px; font-family:Helvetica, Arial,  sans-serif;">Birthday</span><br>
+                  <select name="day">
+                    <option value="">day</option>
+                     <option value="1">1</option>
+                    <option value="2">2</option>
+                     <!--more options will be here-->
+       
+           
+                     </select >
+                     <select name="month">
+                       <option>Jan</option>
+                    <option>feb</option>
+                     <!--more options will be here-->
+       
+           
+                        </select>
+                     <select name="year">
+                      <option>2000</option>
+                         <option>2001</option>
+                          <!--more options will be here-->
+       
+                         </select>
+       
+                     <a id="birthday_help" href="#">why i need to provide my birthday?</a><br><BR>
+       
+                         <input name="gender" type="radio"><label class="gender">Male</label></input>
+                        <input name="gender" type="radio"><label class="gender">Female</label></input><br>
+       
+                     <p class="terms_and_conditions">
+                          By clicking Create an account, you agree to our Terms and confirm that you have read     our Data Policy, including our cokiee
+                          Policy. You may receive SMS message notifications from Facebook and can opt out at any time.
+                         </p>
+                     <button type="submit" id="submit">Sign Up</button><br>
+           
+                     <span style="font-family:Helvetica, Arial, sans-serif; color:rgb(102, 102, 102); font-size:13px;">
+                       <a href="#">Create a Page</a> for a celebrity, band or business. </span>
+                       <!-- right div -->
+                  </div>
+                </form>
+            </div>
+     </div>
+</div>
+<script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.js"></script>
+    <script src="script.js">
+
+    </script>
+</body>
+</html>

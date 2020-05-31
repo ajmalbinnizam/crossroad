@@ -1,0 +1,79 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue ,Arial, Helvetica, sans-serif; ;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logotext{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue ,Arial, Helvetica, sans-serif;
+    margin-left: 180px;
+}
+.loginlabel{
+    color: #fff;
+    font-size: 11px;
+}
+.logincontrol{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.subbtn{
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #fff;
+    height: 20px;
+    cursor: pointer;
+}
+.subbtn:hover{
+    background:#3b5998;
+}
+.left{
+    width: 44%;
+    float: left;
+    padding-left: 175px;
+}
+.right{
+    width: 40%;
+    float: left;
+}
+.mainbody{
+    background: linear-gradient(white ,#D3D8E8 );
+    width: 100%;
+    height: 500px;
+}
+.img{
+    width: 537px;
+    height: 195px;
+}
+.para{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+}

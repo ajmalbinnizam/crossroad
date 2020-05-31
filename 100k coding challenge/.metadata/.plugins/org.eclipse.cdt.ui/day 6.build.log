@@ -1,0 +1,9 @@
+19:13:02 **** Incremental Build of configuration Debug for project day 6 ****
+Info: Internal Builder is used for build
+gcc -o "day 6.exe" "src\\day 6.o" 
+c:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o): In function `main':
+/W64_4.5_180676-src/build-crt/../mingw-w64-crt/crt/crt0_c.c:18: undefined reference to `WinMain'
+collect2: ld returned 1 exit status
+
+19:13:03 Build Failed. 1 errors, 0 warnings. (took 144ms)
+

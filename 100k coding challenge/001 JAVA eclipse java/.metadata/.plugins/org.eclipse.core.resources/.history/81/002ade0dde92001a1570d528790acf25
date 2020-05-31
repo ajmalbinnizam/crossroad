@@ -1,0 +1,22 @@
+
+public class Text {
+//	public static void main(String[] args) {
+//		Hello obj =new Hello();
+		
+	Hello obj;
+		
+	public Text(Hello obj){
+		this.obj=obj;
+		
+			
+		}
+		void scan() {
+			
+			
+			obj.ontext("scanned test");
+			
+		}
+		
+	}
+
+//}

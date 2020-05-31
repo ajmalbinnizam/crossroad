@@ -1,0 +1,13 @@
+17:32:53 **** Incremental Build of configuration Debug for project day3 menu ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\menu.o" "..\\src\\menu.c" 
+..\src\menu.c: In function 'main':
+..\src\menu.c:7:2: warning: implicit declaration of function 'setbuff'
+..\src\menu.c:28:1: warning: control reaches end of non-void function
+gcc -o "day3 menu.exe" "src\\menu.o" 
+src\menu.o: In function `main':
+C:\Users\Lenovo\eclipse-workspace\day3 menu\Debug/../src/menu.c:7: undefined reference to `setbuff'
+collect2: ld returned 1 exit status
+
+17:32:54 Build Failed. 1 errors, 2 warnings. (took 625ms)
+

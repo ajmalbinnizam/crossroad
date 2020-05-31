@@ -1,0 +1,11 @@
+17:45:23 **** Incremental Build of configuration Debug for project day3 if else ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day3 if else.o" "..\\src\\day3 if else.c" 
+..\src\day3 if else.c:105:5: error: redefinition of 'main'
+..\src\day3 if else.c:77:5: note: previous definition of 'main' was here
+..\src\day3 if else.c: In function 'main':
+..\src\day3 if else.c:107:2: warning: implicit declaration of function 'setbuff'
+..\src\day3 if else.c:128:1: warning: control reaches end of non-void function
+
+17:45:23 Build Failed. 1 errors, 2 warnings. (took 163ms)
+

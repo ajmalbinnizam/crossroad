@@ -1,0 +1,10 @@
+22:06:40 **** Incremental Build of configuration Debug for project fun arg ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\fun arg.o" "..\\src\\fun arg.c" 
+..\src\fun arg.c:5:1: warning: return type defaults to 'int'
+..\src\fun arg.c: In function 'main':
+..\src\fun arg.c:21:1: error: expected declaration or statement at end of input
+..\src\fun arg.c:21:1: warning: control reaches end of non-void function
+
+22:06:40 Build Failed. 1 errors, 2 warnings. (took 149ms)
+

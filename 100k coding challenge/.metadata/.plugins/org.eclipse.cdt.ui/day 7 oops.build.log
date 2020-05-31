@@ -1,0 +1,10 @@
+21:42:30 **** Incremental Build of configuration Debug for project day 7 oops ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day 7 oops.o" "..\\src\\day 7 oops.c" 
+..\src\day 7 oops.c:7:6: warning: return type of 'main' is not 'int'
+gcc -o "day 7 oops.exe" "src\\day 7 oops.o" 
+c:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file day 7 oops.exe: Permission denied
+collect2: ld returned 1 exit status
+
+21:42:30 Build Failed. 1 errors, 1 warnings. (took 342ms)
+

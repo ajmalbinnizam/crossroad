@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586230615637_1" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586230615649_2" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589124900951_3" label="c program" name="c program">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/a day ass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/array" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/book" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/book for" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 3 ass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 4 loops" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 5 array" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 5 ass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 6 ass" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 6 functions" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day 7 oops" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/day3 if else" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/fun arg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/math" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/su" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sum" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/swap" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1585734214053_0" label="Window Working Set" name="Aggregate for window 1585734214038"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589127003344_4" label="Window Working Set" name="Aggregate for window 1589127003344"/>
+<mruList name="c program"/>
+</workingSetManager>

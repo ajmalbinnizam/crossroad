@@ -1,0 +1,9 @@
+19:20:52 **** Incremental Build of configuration Debug for project day 5 ass ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day 5 ass.o" "..\\src\\day 5 ass.c" 
+..\src\day 5 ass.c: In function 'main':
+..\src\day 5 ass.c:29:1: warning: control reaches end of non-void function
+gcc -o "day 5 ass.exe" "src\\day 5 ass.o" 
+
+19:20:53 Build Finished. 0 errors, 1 warnings. (took 267ms)
+
