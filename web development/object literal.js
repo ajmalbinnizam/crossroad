@@ -13,9 +13,10 @@ var person = {name:"aju", age:25,place:"kollam", display:function(){
     console.log(this.name)
 
 }}
+console.log(person.name)
 person.dob="20-2-2020"
 person.displayAge=function(){
-    console.log(this.age)
+    console.log(this.dob)
 }
 // console.log(person.displayAge())
-person.displayAge()
+// person.displayAge()
