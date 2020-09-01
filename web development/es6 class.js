@@ -1,5 +1,12 @@
-class class1{
+class sample{
+    sampleHello(){
+        console.log('this is a sample class')
+    }
+}
+
+class class1 extends sample{
     constructor(num1, num2){
+        super()
         this.num1=num1
         this.num2=num2
     }
@@ -8,7 +15,8 @@ class class1{
     }
 }
 //object
-let claz=new class1(10,20)
+let obj=new class1(10,20)
 
-claz.classfunction()
+obj.classfunction()
 
+obj.sampleHello()

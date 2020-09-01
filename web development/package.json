@@ -1,0 +1,18 @@
+{
+  "name": "web-development",
+  "version": "1.0.0",
+  "main": "array.js",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.1",
+    "uppercase": "^2.0.0-beta.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
