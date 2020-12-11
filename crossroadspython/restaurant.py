@@ -4,3 +4,7 @@ choice=int(input("choose your option"))
 print("you've selected=" +menu[choice])"""
 
 
+
+b=10/0
+
+print(b)
